@@ -36,7 +36,7 @@ function App() {
             className='form-control'
             type='text' 
             value={password}
-            placeholder='Password'
+            placeholder='Enter Your Password'
             readOnly
             />
             <button className='btn btn-primary'>Copy</button>
